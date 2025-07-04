@@ -5,7 +5,7 @@ A ReactJS-based Pipeline Editor to visually construct and validate Directed Acyc
 ## Demo
 
  Live Preview: [https://pipeline-editer-zds3.vercel.app/]  
- Demo Video: [[Your Screen Recording Link Here](https://drive.google.com/file/d/1V1yNKeLqlERjiFpxnObfilWMR3fxVWk-/view?usp=sharing)]
+ Demo Video: [(https://drive.google.com/file/d/1V1yNKeLqlERjiFpxnObfilWMR3fxVWk-/view?usp=sharing)]
 
 ---
 
