@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.controls {
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background: #f4f4f4;
+  border-bottom: 1px solid #ccc;
+}
+
+.controls button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.canvas {
+  flex: 1;
+  position: relative;
+}
+
+.json-preview {
+  padding: 10px;
+  background: #fafafa;
+  border-top: 1px solid #ccc;
+  font-size: 12px;
+  height: 200px;
+  overflow: auto;
+}
+
+.valid {
+  color: green;
+}
+
+.invalid {
+  color: red;
+}
